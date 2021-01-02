@@ -27,4 +27,4 @@ for ($j=0; $j < count($arr); $j++) {
 
 echo '<pre>';
 print_r($array_cap_kc_min);
-// echo $items[array_rand($items)];
+// echo $items[array_rand($items)]; 11111
