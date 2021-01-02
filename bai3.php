@@ -29,4 +29,6 @@ echo '<pre>';
 print_r($array_cap_kc_min);
 // echo $items[array_rand($items)];fsaf
 // echo $items[array_rand($items)]; 11111 
-// 
+// 1
+//2
+//3
